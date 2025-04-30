@@ -7,6 +7,8 @@ Bondi is a modern, responsive, and visually appealing landing page template desi
 
 > _"Taste the Creativity"_ - We make awesome graphic and web design.
 
+**🔗 Demo:** [https://mustafa-ashraf2003.github.io/Bondi/](https://mustafa-ashraf2003.github.io/Bondi/)
+
 ## 📁 Project Structure
 
 ```
